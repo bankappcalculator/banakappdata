@@ -1,0 +1,33 @@
+    {
+      "last_updated": "2025-11-20",
+      "banks": [
+        {
+          "name": "State Bank of India (SBI)",
+          "logo_url": "https://i.imgur.com/your_sbi_logo_url.png",
+          "rates": [
+            { "tenure": "1 Year to < 2 years", "general_public": "6.80%", "senior_citizen": "7.30%" },
+            { "tenure": "2 Years to < 3 years", "general_public": "7.00%", "senior_citizen": "7.50%" },
+            { "tenure": "5 Years to 10 years", "general_public": "6.50%", "senior_citizen": "7.50%" }
+          ]
+        },
+        {
+          "name": "HDFC Bank",
+          "logo_url": "https://i.imgur.com/your_hdfc_logo_url.png",
+          "rates": [
+            { "tenure": "1 Year to 15 months", "general_public": "6.60%", "senior_citizen": "7.10%" },
+            { "tenure": "15 Months to < 2 years", "general_public": "7.10%", "senior_citizen": "7.60%" },
+            { "tenure": "5 Yrs 1 Day to 10 Yrs", "general_public": "7.00%", "senior_citizen": "7.75%" }
+          ]
+        },
+        {
+          "name": "ICICI Bank",
+          "logo_url": "https://i.imgur.com/your_icici_logo_url.png",
+          "rates": [
+            { "tenure": "1 Year to 389 days", "general_public": "6.70%", "senior_citizen": "7.20%" },
+            { "tenure": "2 Yrs 1 Day to 3 Yrs", "general_public": "7.00%", "senior_citizen": "7.50%" },
+            { "tenure": "5 Yrs 1 Day to 10 Yrs", "general_public": "6.90%", "senior_citizen": "7.50%" }
+          ]
+        }
+      ]
+    }
+    
